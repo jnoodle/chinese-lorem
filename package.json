@@ -1,0 +1,30 @@
+{
+  "name": "chinese-lorem",
+  "version": "1.0.0",
+  "description": "Generate lorem ipsum Chinese text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnoodle/chinese-lorem.git"
+  },
+  "keywords": [
+    "Chinese",
+    "lorem",
+    "ipsum",
+    "LoremIpsum",
+    "generate"
+  ],
+  "author": "jnoodle <fullstack@126.com> (https://github.com/jnoodle)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnoodle/chinese-lorem/issues"
+  },
+  "homepage": "https://github.com/jnoodle/chinese-lorem#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
