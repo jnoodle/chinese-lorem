@@ -1,4 +1,6 @@
-# Chinese Lorem [![Build Status](https://travis-ci.com/jnoodle/chinese-lorem.svg?branch=master)](https://travis-ci.com/jnoodle/chinese-lorem)
+# Chinese Lorem
+
+[![Build Status](https://travis-ci.com/jnoodle/chinese-lorem.svg?branch=master)](https://travis-ci.com/jnoodle/chinese-lorem) [![Coverage Status](https://coveralls.io/repos/github/jnoodle/chinese-lorem/badge.svg?branch=master)](https://coveralls.io/github/jnoodle/chinese-lorem?branch=master)
 
 Generate lorem ipsum Chinese text.
 
