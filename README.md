@@ -1,4 +1,4 @@
-# Chinese Lorem
+# Chinese Lorem [![Build Status](https://travis-ci.com/jnoodle/chinese-lorem.svg?branch=master)](https://travis-ci.com/jnoodle/chinese-lorem)
 
 Generate lorem ipsum Chinese text.
 
